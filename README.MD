@@ -28,12 +28,3 @@ Run the application:
 pythom3 main.py
 ```
 
-## Error?
-
-If it's an error with regards to path, run the command:
-
-```
-export PYTHONPATH=$PWD
-```
-
-Any other one? Please raise an issue.
