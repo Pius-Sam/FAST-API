@@ -6,10 +6,6 @@ Repository containing code for "Deploying FastAPI applications to Vercel".
 
 To run the application on your machine, clone this repository and install the dependencies:
 
-```
-$ git clone https://github.com/Youngestdev/fastapi-notes-app && cd fastapi-notes-app
-```
-
 Setup a virtual environment:
 
 ```
